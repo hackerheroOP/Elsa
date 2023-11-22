@@ -310,7 +310,7 @@ Name - {}
 📢 ▫️ <a href=https://bit.ly/43bhmhT> Learn Hacking Here</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-🧲 • <a href=https://t.me/Leechx_grp> 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐓𝐨𝐫𝐫𝐞𝐧𝐭 𝐋𝐞𝐞𝐜𝐡 𝐆𝐫𝐨𝐮𝐩 
+🧲 • <a href=https://t.me/Leechx_grp> 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐓𝐨𝐫𝐫𝐞𝐧𝐭 𝐋𝐞𝐞𝐜𝐡 𝐆𝐫𝐨𝐮𝐩 </a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 </b>"""
 
