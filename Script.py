@@ -308,7 +308,11 @@ Name - {}
 👉🏻 ▫️<a href=https://t.me/movies_request_02> Request Group</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 📢 ▫️ <a href=https://bit.ly/43bhmhT> Learn Hacking Here</a>
-〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>"""
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+🧲 • <a href=https://t.me/Leechx_grp> 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐓𝐨𝐫𝐫𝐞𝐧𝐭 𝐋𝐞𝐞𝐜𝐡 𝐆𝐫𝐨𝐮𝐩 
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
+</b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
