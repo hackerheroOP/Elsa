@@ -91,7 +91,7 @@ IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 # Others
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1001914219474').split()]
-PORT = os.environ.get("PORT", "8080")
+PORT = os.environ.get("PORT", "8390")
 MAX_BTN = int(environ.get('MAX_BTN', "7"))
 S_GROUP = environ.get('S_GROUP',"https://t.me/Movies_Request_02")
 MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Movies_Unloaded_Network")
